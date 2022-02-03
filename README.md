@@ -1,3 +1,3 @@
-# js-twpqqu
+A quick project to build search functionality using JS
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/js-twpqqu)
+Decided to use the Harry Potter API to make it a little interesting. Might be doing something with the Marvel one next
